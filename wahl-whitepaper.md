@@ -91,7 +91,7 @@ Dieser lokale Client sollte nur auf einem abgesicherten Computer mit frisch inst
 1. Vor der Wahl erzeugt der zentrale Wahlleiter, jeder lokale Wahlleiter und auch lokale Wahlhelfer wenn gewünscht mit dem Signierer-Program ein Schlüsselpaar und melden den öffentlichen Schlüssel an den zentralen Wahlleiter. 
 2. Der Zentrale Wahlleiter erstellt eine Liste aller öffentlichen Schlüssel, signiert sie mit seinem Signier-Programm und veröffentlicht sie mit dem Melder-Program auf IPFS und Blockchain
 3. Jeder lokale Wahlleiter erstellt mit dem Signier-Programm eine Ergebnis-Meldung und packt Fotos der Papierdokumente dazu. Alle Dateien werden von ihm signiert.
-4. jeder zentrale Wahlleiter publiziert diese Dateien mit dem Melder-Programm auf IPFS und der Blockchain
+4. jeder lokale Wahlleiter publiziert diese Dateien mit dem Melder-Programm auf IPFS und der Blockchain
 5. lokale Wahlhelfer können die Meldung wenige Minuten später mit ihrem Melder-Programm kontrollieren und die Kontrolle mit dem Signier-Program bestätigen (und anschließend mit dem Melder-Programm melden)
 6. Jedermann kann mit einer lokalen Installation des Melder-Programmes oder anderer Programme die Blockchain überwachen und Ergebnisse lesen und kontrollieren.
 
